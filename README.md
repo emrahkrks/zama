@@ -1,1 +1,1 @@
-# zama
+# zama-kazanç
